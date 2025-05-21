@@ -49,7 +49,7 @@
     <Compile Include="1 Interface_Movement.cs" />
     <Compile Include="5 Monster.cs" />
     <Compile Include="6 OrcFactory.cs" />
-    <Compile Include="6 Program.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
