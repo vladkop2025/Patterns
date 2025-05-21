@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="4 DragonFactory.cs" />
+    <Compile Include="3 Interface_Factories.cs" />
+    <Compile Include="2_Interface_Weapons_.cs" />
+    <Compile Include="1_Interface_Movement.cs" />
+    <Compile Include="5 Monster.cs" />
+    <Compile Include="6 OrcFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
