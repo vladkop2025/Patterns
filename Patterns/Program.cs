@@ -35,6 +35,17 @@ namespace AbstractFactoryRealExample
 
             Console.WriteLine();
             Console.WriteLine("Всем конец...");
+
+            /* Вывод
+            Летим
+            Дышим огнем
+
+            Бежим
+            Бьем топором
+
+            Всем конец...
+            */
+
         }
     }
 }
