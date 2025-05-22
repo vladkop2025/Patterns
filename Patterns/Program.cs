@@ -23,6 +23,12 @@ namespace SingletonRealExample
             app.DbConnection = DbConnection.GetConnectionInstance("10.30.60.81");
             // у нас не получилось, так как объект уже существует
             Console.WriteLine(app.DbConnection.Configuration);
+
+            /* Вывод
+            10.30.60.80
+            10.30.60.80
+            */
+
         }
     }
 }
