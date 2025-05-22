@@ -46,6 +46,11 @@ namespace FactoryMethodRealExample
             // Отправляем заказ по e-mail
             sender = new EmailMessageSender("orders@myshop.com");
             Message message = sender.Send(messageText);
+
+            /* Вывод
+            SMS отправдено
+            e - mail отправлен 
+            /*
         }
     }
 }
